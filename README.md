@@ -1,5 +1,5 @@
-# HW3-236272
-#Dry-answers
+# HW3-236272: Dry answers
+
 1The class is "SnappingSheetController "
 With this class we can :
 control on the position 
