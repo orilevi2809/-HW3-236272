@@ -1,6 +1,6 @@
 # HW3-236272: Dry answers
 
-1The class is "SnappingSheetController "
+1.The class is "SnappingSheetController "
 With this class we can :
 control on the position 
 and extract information from the sheet 
